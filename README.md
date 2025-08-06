@@ -1,2 +1,0 @@
-# PowerBI
-Power BI practice
